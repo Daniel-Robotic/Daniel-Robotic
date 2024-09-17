@@ -31,7 +31,7 @@ I am a young scientist implementing artificial intelligence and robotic systems.
 
 - :zap: I spend my free time with my family or friends
 
-- :mailbox:How to reach me: [![YandexMail badge](https://img.shields.io/badge/-grabardm-yellow?style=flat&logo=gmail&logoColor=white)](grabardm@ml-dev.ru)
+- :mailbox:How to reach me: [![YandexMail badge](https://img.shields.io/badge/-grabardm-yellow?style=flat&logo=gmail&logoColor=white)](mailto:grabardm@ml-dev.ru)
 
 ---
 
