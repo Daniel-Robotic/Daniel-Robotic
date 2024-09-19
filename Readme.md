@@ -61,10 +61,13 @@ I am a young scientist implementing artificial intelligence and robotic systems.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel-Robotic&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Robotic&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniel-Robotic&theme=github_dark)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniel-Robotic&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daniel-Robotic&theme=github_dark)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniel-Robotic&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniel-Robotic&theme=github_dark&utcOffset=8)
+</div>
